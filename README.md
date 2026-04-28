@@ -1,2 +1,2 @@
 # github-login
-sir i creat my own id in github
+sir i creat my own id in gitub
